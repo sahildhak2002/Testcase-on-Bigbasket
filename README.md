@@ -2,7 +2,7 @@
 API Testing Description – BigBasket App (Search API)
 This API testing project focuses on validating the Product Search API of the BigBasket application. The purpose of this API is to allow users to search for grocery products using keywords. The test cases are designed to verify the API’s response under various input conditions including valid inputs, invalid inputs, empty queries, and boundary conditions like result limits.
 
-✅ Scope of Testing:
+# Scope of Testing:
 Functional testing of the search API endpoint.
 
 Validation of positive and negative scenarios.
@@ -13,12 +13,12 @@ Response data structure and message validation.
 
 Limit parameter behavior.
 
-⚙️ Tools Used:
+# Tools Used:
 Postman – for manual API execution and validation.
 
 Excel – for documenting test cases, results, and observations.
 
-📄 Test Summary:
+# Test Summary:
 Total Test Cases	Passed	Failed	Blocked
 5	5	0	0
 
